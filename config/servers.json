@@ -1,0 +1,25 @@
+{
+  "servers": [
+    {
+      "id": "grief",
+      "name": "Гріф",
+      "version": "1.12.2",
+      "java": "java8",
+      "manifest": "https://yourcdn/1.12.2.json"
+    },
+    {
+      "id": "survival",
+      "name": "Выживание",
+      "version": "1.16.5",
+      "java": "java11",
+      "manifest": "https://yourcdn/1.16.5.json"
+    },
+    {
+      "id": "magictech",
+      "name": "MagicTech",
+      "version": "1.12.2",
+      "java": "java8",
+      "manifest": "https://yourcdn/magictech.json"
+    }
+  ]
+}
